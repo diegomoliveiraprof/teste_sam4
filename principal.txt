@@ -1,4 +1,4 @@
 def main():
-	prog1
+    prog2
 
 main()
